@@ -1,0 +1,396 @@
+{
+    "data": [
+        {
+            "area": "东北",
+            "date": "2011年",
+            "cn": "152.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "东北",
+            "date": "2012年",
+            "cn": "162.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "东北",
+            "date": "2013年",
+            "cn": "172.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "东北",
+            "date": "2014年",
+            "cn": "172.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "东北",
+            "date": "2015年",
+            "cn": "172.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "东北",
+            "date": "2016年",
+            "cn": "172.5",
+            "unit": "万吨\/年",
+            "remark": "168"
+        },
+        {
+            "area": "东北",
+            "date": "2017年",
+            "cn": "180",
+            "unit": "万吨\/年",
+            "remark": "168"
+        },
+        {
+            "area": "华东",
+            "date": "2011年",
+            "cn": "284",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华东",
+            "date": "2012年",
+            "cn": "379",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华东",
+            "date": "2013年",
+            "cn": "379",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华东",
+            "date": "2014年",
+            "cn": "480",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华东",
+            "date": "2015年",
+            "cn": "515",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华东",
+            "date": "2016年",
+            "cn": "539",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华东",
+            "date": "2017年",
+            "cn": "559",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华中",
+            "date": "2011年",
+            "cn": "516",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华中",
+            "date": "2012年",
+            "cn": "521",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华中",
+            "date": "2013年",
+            "cn": "611",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华中",
+            "date": "2014年",
+            "cn": "641",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华中",
+            "date": "2015年",
+            "cn": "641",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华中",
+            "date": "2016年",
+            "cn": "641",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华中",
+            "date": "2017年",
+            "cn": "638",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华北",
+            "date": "2011年",
+            "cn": "646",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华北",
+            "date": "2012年",
+            "cn": "718",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华北",
+            "date": "2013年",
+            "cn": "742.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华北",
+            "date": "2014年",
+            "cn": "799.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华北",
+            "date": "2015年",
+            "cn": "791",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华北",
+            "date": "2016年",
+            "cn": "815",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华北",
+            "date": "2017年",
+            "cn": "810",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华南",
+            "date": "2011年",
+            "cn": "169",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华南",
+            "date": "2012年",
+            "cn": "169",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华南",
+            "date": "2013年",
+            "cn": "169",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华南",
+            "date": "2014年",
+            "cn": "169",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华南",
+            "date": "2015年",
+            "cn": "169",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华南",
+            "date": "2016年",
+            "cn": "169",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "华南",
+            "date": "2017年",
+            "cn": "149",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "山东",
+            "date": "2011年",
+            "cn": "552",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "山东",
+            "date": "2012年",
+            "cn": "613",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "山东",
+            "date": "2013年",
+            "cn": "607",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "山东",
+            "date": "2014年",
+            "cn": "647",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "山东",
+            "date": "2015年",
+            "cn": "649",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "山东",
+            "date": "2016年",
+            "cn": "643",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "山东",
+            "date": "2017年",
+            "cn": "827",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西北",
+            "date": "2011年",
+            "cn": "1756",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西北",
+            "date": "2012年",
+            "cn": "2056",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西北",
+            "date": "2013年",
+            "cn": "2280",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西北",
+            "date": "2014年",
+            "cn": "3273",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西北",
+            "date": "2015年",
+            "cn": "3353",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西北",
+            "date": "2016年",
+            "cn": "3978",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西北",
+            "date": "2017年",
+            "cn": "4183",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西南",
+            "date": "2011年",
+            "cn": "467.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西南",
+            "date": "2012年",
+            "cn": "543.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西南",
+            "date": "2013年",
+            "cn": "628.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西南",
+            "date": "2014年",
+            "cn": "678.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西南",
+            "date": "2015年",
+            "cn": "685.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西南",
+            "date": "2016年",
+            "cn": "685.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "area": "西南",
+            "date": "2017年",
+            "cn": "692.5",
+            "unit": "万吨\/年",
+            "remark": null
+        }
+    ]
+}

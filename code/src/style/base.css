@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+body {
+  font: 12px/1 Microsoft YaHei, Heiti SC, arial;
+  color: #fff;
+}
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+.fade-enter-active,
+.fade-leave-active {
+  transition: all 0.4s ease-in-out;
+}
+.h500 {
+  height: 500px;
+  border: 1px solid #fff;
+}
+.h1000 {
+  height: 930px;
+  border: 1px solid #fff;
+}
+.el-header {
+  background-color: #000000;
+  color: #333;
+  text-align: center;
+  padding: 0;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+}
+.el-header .logoimg {
+  margin-top: 19px;
+}
+.el-header .logotitle {
+  margin-top: 23px;
+}
+.el-header .topnav {
+  height: 100%;
+}
+.el-header .topnav .el-menu--horizontal {
+  border: none;
+}
+.el-header .topnav .el-menu--horizontal > .el-menu-item {
+  height: 80px;
+  line-height: 80px;
+}
+.el-header .topnav .el-menu--horizontal > .el-submenu .el-submenu__title {
+  height: 80px;
+  line-height: 80px;
+}
+.el-header .topnav .el-menu-item {
+  padding: 0 40px;
+}
+.el-main {
+  margin-top: 80px;
+}

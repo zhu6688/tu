@@ -1,0 +1,1021 @@
+{
+    "code": 0 ,
+    "message": "请求成功",
+    "dataList": [
+        {
+            "date": "2013年",
+            "area": "上海",
+            "cl": "75.59",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "云南",
+            "cl": "39.75",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "内蒙古",
+            "cl": "563.24",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "吉林",
+            "cl": "3.63",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "四川",
+            "cl": "63.22",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "天津",
+            "cl": "0",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "宁夏",
+            "cl": "85.59",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "安徽",
+            "cl": "41.28",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "山东",
+            "cl": "476.67",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "山西",
+            "cl": "216.53",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "广东",
+            "cl": "3.36",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "广西",
+            "cl": "15.06",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "新疆",
+            "cl": "58.88",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "江苏",
+            "cl": "47.75",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "江西",
+            "cl": "0.74",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "河北",
+            "cl": "93.19",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "河南",
+            "cl": "256.77",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "浙江",
+            "cl": "15.3",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "海南",
+            "cl": "137.27",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "湖北",
+            "cl": "30.93",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "湖南",
+            "cl": "6.22",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "甘肃",
+            "cl": "50.62",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "福建",
+            "cl": "32.91",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "贵州",
+            "cl": "36.51",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "辽宁",
+            "cl": "12.78",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "重庆",
+            "cl": "93.23",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "陕西",
+            "cl": "292.35",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "青海",
+            "cl": "89.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2013年",
+            "area": "黑龙江",
+            "cl": "39.69",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "上海",
+            "cl": "93.51",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "云南",
+            "cl": "38.84",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "内蒙古",
+            "cl": "651.9",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "吉林",
+            "cl": "0.81",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "四川",
+            "cl": "76.89",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "天津",
+            "cl": "25.2",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "宁夏",
+            "cl": "286.77",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "安徽",
+            "cl": "73.77",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "山东",
+            "cl": "564.82",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "山西",
+            "cl": "258.86",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "广东",
+            "cl": "0.29",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "广西",
+            "cl": "20.29",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "新疆",
+            "cl": "123.26",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "江苏",
+            "cl": "82.91",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "江西",
+            "cl": "1.51",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "河北",
+            "cl": "98.52",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "河南",
+            "cl": "290.66",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "浙江",
+            "cl": "14.67",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "海南",
+            "cl": "137.09",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "湖北",
+            "cl": "38.71",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "湖南",
+            "cl": "24.07",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "甘肃",
+            "cl": "72.71",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "福建",
+            "cl": "37.4",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "贵州",
+            "cl": "39.88",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "辽宁",
+            "cl": "20.03",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "重庆",
+            "cl": "163.93",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "陕西",
+            "cl": "336.23",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "青海",
+            "cl": "61.1",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2014年",
+            "area": "黑龙江",
+            "cl": "41.19",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "上海",
+            "cl": "91.04",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "云南",
+            "cl": "48.53",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "内蒙古",
+            "cl": "684.88",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "吉林",
+            "cl": "1.02",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "四川",
+            "cl": "30.11",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "天津",
+            "cl": "24.79",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "宁夏",
+            "cl": "510.08",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "安徽",
+            "cl": "73.28",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "山东",
+            "cl": "613.57",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "山西",
+            "cl": "263.99",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "广东",
+            "cl": "0",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "广西",
+            "cl": "16.97",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "新疆",
+            "cl": "109.66",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "江苏",
+            "cl": "73.69",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "江西",
+            "cl": "1.86",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "河北",
+            "cl": "96.85",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "河南",
+            "cl": "349.65",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "浙江",
+            "cl": "13.92",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "海南",
+            "cl": "142.17",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "湖北",
+            "cl": "39.49",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "湖南",
+            "cl": "4.25",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "甘肃",
+            "cl": "44.51",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "福建",
+            "cl": "26.05",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "贵州",
+            "cl": "44.38",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "辽宁",
+            "cl": "12.02",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "重庆",
+            "cl": "196.41",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "陕西",
+            "cl": "431.48",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "青海",
+            "cl": "25.75",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2015年",
+            "area": "黑龙江",
+            "cl": "40.06",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "上海",
+            "cl": "88.49",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "云南",
+            "cl": "34.79",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "内蒙古",
+            "cl": "741.39",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "吉林",
+            "cl": "0.99",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "四川",
+            "cl": "15.4",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "天津",
+            "cl": "31.21",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "宁夏",
+            "cl": "539.62",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "安徽",
+            "cl": "72.99",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "山东",
+            "cl": "642.51",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "山西",
+            "cl": "278.57",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "广东",
+            "cl": "0",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "广西",
+            "cl": "15.87",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "新疆",
+            "cl": "140.1",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "江苏",
+            "cl": "61.83",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "江西",
+            "cl": "0.12",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "河北",
+            "cl": "96.67",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "河南",
+            "cl": "429.62",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "浙江",
+            "cl": "13.37",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "海南",
+            "cl": "135.92",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "湖北",
+            "cl": "45.95",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "湖南",
+            "cl": "0.29",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "甘肃",
+            "cl": "45.06",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "福建",
+            "cl": "15.28",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "贵州",
+            "cl": "49.47",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "辽宁",
+            "cl": "2.03",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "重庆",
+            "cl": "229.38",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "陕西",
+            "cl": "475.84",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "青海",
+            "cl": "69.91",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2016年",
+            "area": "黑龙江",
+            "cl": "40.9",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "上海",
+            "cl": "89.04",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "云南",
+            "cl": "30.76",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "内蒙古",
+            "cl": "820.21",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "吉林",
+            "cl": "0.92",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "四川",
+            "cl": "39.16",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "天津",
+            "cl": "29.16",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "宁夏",
+            "cl": "644.19",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "安徽",
+            "cl": "86.02",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "山东",
+            "cl": "639.14",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "山西",
+            "cl": "278.57",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "广东",
+            "cl": "0",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "广西",
+            "cl": "13.55",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "新疆",
+            "cl": "141.41",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "江苏",
+            "cl": "57.45",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "江西",
+            "cl": "0",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "河北",
+            "cl": "99.78",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "河南",
+            "cl": "357.5",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "浙江",
+            "cl": "12.54",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "海南",
+            "cl": "134.3",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "湖北",
+            "cl": "28.56",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "湖南",
+            "cl": "0",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "甘肃",
+            "cl": "63.45",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "福建",
+            "cl": "13.16",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "贵州",
+            "cl": "37.35",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "辽宁",
+            "cl": "1.05",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "重庆",
+            "cl": "224.85",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "陕西",
+            "cl": "542.63",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "青海",
+            "cl": "83.24",
+            "unit": "万吨\/年",
+            "remark": null
+        },
+        {
+            "date": "2017年",
+            "area": "黑龙江",
+            "cl": "38.86",
+            "unit": "万吨\/年",
+            "remark": null
+        }
+    ]
+}
